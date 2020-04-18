@@ -8,3 +8,7 @@ rails db:seed
 rails db:migrate
 
 rails generate model breed name:string age:integer
+
+bundle install
+
+yarn install
