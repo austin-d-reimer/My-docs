@@ -1,3 +1,5 @@
+## choco
+
 choco install git
 
 choco install python
@@ -6,3 +8,5 @@ choco install yarn
 choco install gh
 choco install 7zip
 choco install chocolateygui
+
+## winget
