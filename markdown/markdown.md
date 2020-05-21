@@ -8,7 +8,9 @@
 
 ```<sup></sup>```
 
-<sup>Hello, I am smaller</sup>
+I am normal size
+
+<sup>I am smaller</sup>
 
 ```#C6E48B```
 
