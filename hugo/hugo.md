@@ -1,3 +1,5 @@
+[Home](../README.md)
+
 ## Loads the submodule on a new computer
 ```git submodule update --init --recursive```
 
