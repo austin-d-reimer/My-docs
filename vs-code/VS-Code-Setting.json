@@ -1,0 +1,24 @@
+{
+  "editor.tabSize": 2,
+  "scm.alwaysShowProviders": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "editor.formatOnSave": true,
+  "workbench.settings.editor": "json",
+  "python.formatting.provider": "black",
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "ruby.intellisense": false,
+  "ruby.format": "robocop",
+  "ruby.lint": {
+    "robocop": true
+  },
+  "[ruby]": {},
+  "[python]": {
+    "editor.tabSize": 4,
+  },
+  "emmet.showSeggestionsAsSnippets": true,
+  "emmet.includeLanguages": {
+    "html.erb": "html",
+    "erb": "html"
+  },
+}
