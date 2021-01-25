@@ -3,6 +3,14 @@
 git add .
 git commit -m "message"
 
+## Rename master to main
+
+```
+git branch -m master main
+git push -u origin main
+git push origin --delete master
+```
+
 ## Remote
 
 git remote -v
@@ -13,4 +21,3 @@ git pull origin repo-name
 git push origin repo-name
 git fetch "remote_name"
 
-git branch -r
